@@ -30,7 +30,7 @@ This report summarizes the analysis of UFO sighting data, focusing on the distri
 *   **Clustering and Similarity:** Certain states within the same regions might exhibit similar reporting patterns, although this is not a strong effect visually.
 *   **"Unknown" State:** The "unknown" state exhibits some reported occurrences of a few common shapes, but also many reports with non-uniform sizes. It is hard to draw further conclusions.
 
-### General Trends (Detailed)
+### General Trends
 
 Based on the overall pattern in the data, the following general trends are apparent:
 
@@ -54,7 +54,7 @@ Based on the overall pattern in the data, the following general trends are appar
 *   **Later States:** The later states and the states in the center of the x-axis tend to have larger bubbles, indicative of a higher report volume than the earlier ones.
 *   **Reporting Time or Method:** A higher volume of reports can be attributed to many reasons including the way the data was collected over time.
 
-### Possible Interpretations (Detailed)
+### Possible Interpretations
 
 It is essential to emphasize that these interpretations are speculative based solely on the image data:
 
